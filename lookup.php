@@ -56,6 +56,7 @@ if ($v) {
 <ct><? echo $ct ?></ct>
 <st><? echo $st ?></st>
 <nr><? echo $nr ?></nr>
+<hm><? echo $phone ?></hm>
 <raw>[<? echo $v."-".$a ?>]</raw>
 </entry>
 </list>
